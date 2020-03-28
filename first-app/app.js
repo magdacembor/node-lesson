@@ -1,8 +1,3 @@
-function sayHello(name) {
-    console.log('Hello ' + name)
-}
-sayHello(window)
+const log = require('./logger');
 
-
-
-// there's no window or document objects as they are objects of the browser
+log('message');
