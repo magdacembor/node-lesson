@@ -8,3 +8,5 @@
 
 // when defining a function within a class 'function' prefeix should be removed
 // it becomes a class method
+
+// Framework: Express
